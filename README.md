@@ -1,1 +1,1 @@
-# code Pygame write Sudoku game
+# code Python, Pygame to write Game
