@@ -1,1 +1,1 @@
-# code Python, Pygame to write Game
+# Python, Pygame to write Game
